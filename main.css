@@ -1,8 +1,9 @@
 h1 {
   color: purple;
-  font: Aclonica;
+  font-family: Mina;
+  font-weight: bold;
 }
 
 p {
-  font-family: Amita;
+  font-family: Oswald;
 }
