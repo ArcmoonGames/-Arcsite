@@ -1,2 +1,2 @@
-# -Arcsite
-A starter web page to host Arcmoon's content
+# Arcsite
+Hello my little moons. More details to come soon.
