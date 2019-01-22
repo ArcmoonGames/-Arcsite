@@ -1,14 +1,14 @@
 h1 {
   color: purple;
-  font-family: Mina;
+  ffont-family: 'Mina', sans-serif;
   font-weight: bold;
 }
 
 p {
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
 }
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Mina:700');
-@import url('https://fonts.googleapis.com/css?family=Oswald:700');
+@import url('https://fonts.googleapis.com/css?family=Mina:400, 700');
+@import url('https://fonts.googleapis.com/css?family=Oswald:200, 300, 400, 500, 600, 700');
 </style>
