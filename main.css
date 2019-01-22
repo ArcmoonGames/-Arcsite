@@ -2,18 +2,14 @@ body {
   background-color: #282828;
 }
 
+.header {
+}
+
 #footer {
   background-color: #282828;
   text-align: center;
   color: #f8f8ff;
-}
-
-h1 {
-  color: red;
-  font-family: 'Mina:700', sans-serif;
-}
-h2 {
-  text-align: center;
+  font-family: 'Oswald', sans-serif;
 }
 
 p {
