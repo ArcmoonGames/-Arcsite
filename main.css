@@ -2,6 +2,14 @@ body {
   background-color: #282828;
 }
 
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+}
+
 #header {
   background-color: #282828;
   text-align: center;
@@ -11,14 +19,11 @@ body {
 
 #footer {
   background-color: #282828;
-  text-align: center;
   color: #f8f8ff;
   font-family: 'Oswald', sans-serif;
 }
 
-p {
-  font-family: 'Oswald', sans-serif;
-}
+
 
 .carousel-indicators {
   border-radius: 0;
