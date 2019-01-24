@@ -17,6 +17,9 @@ p {
 .footer-as {
   background-color: #3c3d41;
 }
+.footer-copyright {
+  background-color: #343a40;
+}
 
 #header {
   font-family: 'Oswald', sans-serif;
@@ -28,7 +31,7 @@ p {
   font-family: 'Oswald', sans-serif;
 }
 .navbar {
-  background-color: #333;
+  
 }
 
 <style>
