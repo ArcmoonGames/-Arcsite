@@ -27,6 +27,7 @@ p {
 
 #carousel-image {
   height: 720px;
+  object-fit: contain;
 }
 
 <style>
