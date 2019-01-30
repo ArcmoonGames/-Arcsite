@@ -36,12 +36,12 @@ p {
 }
 
 #rc-image {
-  height: 33vw;
+  height: 10vw;
   object-fit: cover;
 }
 
 #lb-image {
-  height: 10vw;
+  height: 20vw;
   object-fit: cover;
 }
 
