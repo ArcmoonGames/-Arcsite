@@ -28,6 +28,7 @@ p {
 #navbar {
   font-family: 'Oswald', sans-serif;
   background-color: #9E1B34;
+  padding: 0px;
 }
 
 #carousel-image {
