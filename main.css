@@ -45,6 +45,11 @@ p {
   object-fit: cover;
 }
 
+#page-container {
+  max-width: 100vw; 
+  box-sizing: border-box;
+}
+
 <style>
 @import url('https://fonts.googleapis.com/css?family=Mina:400, 700');
 @import url('https://fonts.googleapis.com/css?family=Oswald:200, 300, 400, 500, 600, 700');
