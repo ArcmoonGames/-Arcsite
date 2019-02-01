@@ -21,13 +21,13 @@ p {
     object-fit: cover;
 }
 
-.footer-as {
-  padding: 60px; 20px;
-  min-width: 100%;
-}
-
 .bg-danger {
   background-color: #9E1B34;
+}
+
+#page-container {
+  max-width: 100vw; 
+  box-sizing: border-box;
 }
 
 #navbar {
@@ -51,9 +51,9 @@ p {
   object-fit: cover;
 }
 
-#page-container {
-  max-width: 100vw; 
-  box-sizing: border-box;
+#footer-as {
+  padding: 60px; 20px;
+  min-width: 100%;
 }
 
 <style>
