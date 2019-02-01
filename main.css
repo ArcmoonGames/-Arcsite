@@ -23,6 +23,7 @@ p {
 
 .footer-as {
   padding: 60px; 20px;
+  min-width: 100%;
 }
 
 #navbar {
