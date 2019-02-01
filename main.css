@@ -28,7 +28,7 @@ p {
 #navbar {
   font-family: 'Oswald', sans-serif;
   background-color: #9E1B34;
-  min-width: 100vw;
+  min-width: 100%;
 }
 
 #carousel-image {
