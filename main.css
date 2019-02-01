@@ -47,6 +47,10 @@ p {
   object-fit: cover;
 }
 
+#text-cards {
+  margin-left: 0px;
+}
+
 #footer-as {
   min-width: 100%;
 }
