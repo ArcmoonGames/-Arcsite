@@ -21,10 +21,6 @@ p {
     object-fit: cover;
 }
 
-.bg-danger {
-  background-color: #9E1B34;
-}
-
 #page-container {
   max-width: 100vw; 
   box-sizing: border-box;
