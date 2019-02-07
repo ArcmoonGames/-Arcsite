@@ -119,7 +119,7 @@
 
         <div class="col-md-3">
           <div class="row">
-            <h1> FIT </h1>
+    <!--        <h1> FIT </h1> -->
            <!--
             <div class="card text-white bg-danger mb-3" id="text-cards">
               <div class="card-header">Header</div>
@@ -131,7 +131,7 @@
 -->
           </div>
           <div class="row">
-            <h1>pls</h1>
+  <!--          <h1>pls</h1> -->
             <!--
             <div class="card text-white bg-danger mb-3" id="text-cards">
               <div class="card-header">Header</div>
@@ -143,7 +143,7 @@
 -->
           </div>
           <div class="row">
-            <h1>GOD</h1>
+<!--           <h1>GOD</h1> -->
             <!--
             <div class="card text-white bg-danger mb-3" id="text-cards">
               <div class="card-header">Header</div>
