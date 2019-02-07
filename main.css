@@ -55,6 +55,7 @@ p {
 
 #footer-as {
   min-width: 100%;
+  object-fit: cover;
 }
 
 <style>
