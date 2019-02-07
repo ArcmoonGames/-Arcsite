@@ -51,8 +51,8 @@ p {
 }
 
 #text-cards {
-  min-width: 100%;
-  max-height: 50%;
+  height: 15vw;
+  object-fit: cover;
 }
 
 #footer-as {
