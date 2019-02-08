@@ -66,7 +66,7 @@ p {
 
 /*Weird Stuff*/
 
-input[type=text]#myInp {
+input[type=text] {
     width: 130px;
     box-sizing: border-box;
     border: 2px solid #ccc;
@@ -82,8 +82,8 @@ input[type=text]#myInp {
 }
 
 /* When the input field gets focus, change its width to 100% */
-input[type=text]#myInp:focus {
-  width: 100%;
+input[type=text]:focus {
+  width: 100vw;
 }
 
 <style>
